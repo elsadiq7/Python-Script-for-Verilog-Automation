@@ -1,0 +1,4 @@
+I have some ideas which I want to add such as:
+1-add feature to link files in top and make tb for top
+2-add feature to make more than seq logic and comb logic more thaan one block and assign statments 
+
