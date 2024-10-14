@@ -12,34 +12,6 @@ while True:
        print("thanks for using our service")
        break
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # def make_init(module_name_input,header):
 #         module_name = module_name_input
 #         module_header =header
